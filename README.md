@@ -1,1 +1,2 @@
-# EFI_SEEWO_M451A-DDB_hackintosh
+# EFI_SEEWO_MT51A-DDB_hackintosh
+供学校希沃一体机MT51A-DDB
