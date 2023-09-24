@@ -11,3 +11,11 @@ dGPU：NVIDIA · dGPU
 ## config
 iMac19,1
 acidanthera/OCBinaryData中的GUI主题
+## 路线图
+特性|状态|测试|备注
+-|-|-
+示例|- [x] 已完成|- [x] 测试成功|无
+开机|- [x] 已完成|- [x] 测试成功|^^
+GUI|- [x] 已完成|- [ ]待测试|^^
+安装|- [ ] 未计划|- [ ] N/A|没有外置SSD
+
